@@ -6,6 +6,9 @@ node_modules/
 # Expo
 .expo/
 dist/
+.idea/
+ios/
+android/
 web-build/
 
 # Native
